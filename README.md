@@ -1,5 +1,6 @@
 # spritesEditingTool
-This unity tool help a unity game developer to add multiple sprites on a x and y axis without going through the pain of duplicating the object several time.
+This unity tool allows a unity game developer to add multiple sprites on an x and y axis
+without having to duplicate the object multiple times. 
 
 ![Alt img](Image/toolimg.JPG)
 
